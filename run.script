@@ -1,0 +1,29 @@
+Script started on 2019-04-22 21:41:59+08:00 [TERM="xterm" TTY="/dev/pty0" COLUMNS="80" LINES="24"]
+]0;~/c++
+[32mtztmw@CHIHCHENG-LAPTOP [33m~/c++[0m
+$ g++ -o lab1 lab1.cpp
+]0;~/c++
+[32mtztmw@CHIHCHENG-LAPTOP [33m~/c++[0m
+$ ./lab1
+Please input n:22
+22
+11
+34
+17
+52
+26
+13
+40
+20
+10
+5
+16
+8
+4
+2
+1
+]0;~/c++
+[32mtztmw@CHIHCHENG-LAPTOP [33m~/c++[0m
+$ exit
+
+Script done on 2019-04-22 21:42:34+08:00 [COMMAND_EXIT_CODE="0"]
